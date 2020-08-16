@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2020-06-04T13:04:01.6745255Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "bhbhaw-res-grp"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "728a1c0d-2490-4954-b05b-2464ec44de28"
+    }
+  }
+}
